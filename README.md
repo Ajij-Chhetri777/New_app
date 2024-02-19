@@ -1,0 +1,1 @@
+This is code I created with django and still learning django. By the way I have add whatever i learned in django. In this app you wil see adding form , authentication , search functionality and pagination
